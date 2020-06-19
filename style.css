@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    scroll-behavior: smooth;
+}
+
+.img-logo{
+    width: 82px;
+    height: 30px;
+    display: block;
+}
+
+.appImg{
+   width: 30%;
+   height: 30%;
+ }
+
+.img-ic{
+    width: 5%;
+    height: 5%;
+}
+
+/* .container{
+    display: flex;
+}
+
+.font{
+    align-items: center;
+    padding-left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+} */
